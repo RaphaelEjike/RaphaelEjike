@@ -1,17 +1,13 @@
 # Hello, I'm Raph
 <a href="https://www.linkedin.com/in/raphael-ejike-6841464"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+This GitHub project is dedicated to promoting cybersecurity awareness among friends and family. Additionally, it serves as a platform to mentor my son and guide him towards a career in cybersecurity, fostering the next generation of security professionals through guidance and knowledge sharing.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have a few odd years in the IT industry. My journey in client services has led me to develop a passion for cybersecurity, I am enjoying my job as a SOC analyst responding to alerts and incidences in the installation stage to the kill chain. With the experience gained in a few years I look forward to my transition to Threat Intelligence.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+     <a href="https://"https://www.wireshark.org/download.html"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
