@@ -27,8 +27,7 @@ Over the years, I have documented my journey in client services and cybersecurit
      <a href="https://www.wireshark.org/download.html"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </a>
      
 <a href="https://www.netacad.com/courses/packet-tracer">
-  <img src="https://img.shields.io/badge/CISCO%20Networking-black?&style=for-the-badge" />
-</a>
+  <img src="https://img.shields.io/badge/CISCO%20Networking-black?&style=for-the-badge" /></a>
 </div>
 
 ### Endpoint
@@ -40,9 +39,9 @@ Over the years, I have documented my journey in client services and cybersecurit
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <a href="https://learn.microsoft.com/en-us/azure/sentinel/"> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://www.rapid7.com/"><img src="https://img.shields.io/badge/-Rapid7-FF6C37?&style=for-the-badge&logo=Rapid7&logoColor=white" /> </a>
+
 </div>
 
 ## Certifications
