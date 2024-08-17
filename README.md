@@ -48,8 +48,11 @@ Over the years, I have documented my journey in client services and cybersecurit
 
 <div>
 
-   <a href="https://www.credly.com/badges/b81a44fd-eef6-46cb-9ea9-e622d2492ea5/public_url">
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   <a href="https://www.credly.com/badges/b81a44fd-eef6-46cb-9ea9-e622d2492ea5/public_url"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+   <a href="https://www.credly.com/badges/6d2880b1-c844-4d09-89a0-8936419d0524/linked_in_profile"> <img src="https://img.shields.io/badge/-Proofpoint-000000?&style=for-the-badge&logo=Proofpoint&logoColor=white" />
+</a>
+
 
 </div>
 
