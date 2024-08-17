@@ -5,7 +5,7 @@ This GitHub project is dedicated to promoting cybersecurity awareness among frie
 
 ## Objective
 
-I have a few odd years in the IT industry. My journey in client services has led me to develop a passion for cybersecurity, I am enjoying my job as a SOC analyst responding to alerts and incidences in the installation stage to the kill chain. With the experience gained in a few years I look forward to my transition to Threat Intelligence.
+Over the years, I have documented my journey in client services and cybersecurity through my YouTube channel and Blogspot. Gradually, I will transfer most of this relevant knowledge to my GitHub. In my opinion, GitHub is an excellent platform for sharing knowledge with colleagues, friends, and family.
 
 ## Skills
 
