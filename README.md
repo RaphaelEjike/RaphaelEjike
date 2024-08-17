@@ -47,6 +47,8 @@ Over the years, I have documented my journey in client services and cybersecurit
 ## Certifications
 
 <div>
+
+   <a href="https://www.credly.com/badges/b81a44fd-eef6-46cb-9ea9-e622d2492ea5/public_url">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
