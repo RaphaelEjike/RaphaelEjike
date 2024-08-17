@@ -25,17 +25,24 @@ Over the years, I have documented my journey in client services and cybersecurit
 ### Network
 <div> 
      <a href="https://www.wireshark.org/download.html"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </a>
-     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+     
+<a href="https://www.netacad.com/courses/packet-tracer">
+  <img src="https://img.shields.io/badge/CISCO%20Networking-black?&style=for-the-badge" />
+</a>
 
- <a href="https://www.netacad.com/courses/packet-tracer"> ![Static Badge](https://img.shields.io/badge/CISCO%20Networking-black) </a>
 
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint">    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    
+
+<a href="https://www.crowdstrike.com/">
+  <img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+</a>
+
+
 </div>
 
 ### SIEM
