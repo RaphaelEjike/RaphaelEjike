@@ -5,7 +5,7 @@ This GitHub project is dedicated to promoting cybersecurity awareness among frie
 
 ## Objective
 
-Over the years, I have documented my journey in client services and cybersecurity through my  <a href="https://www.youtube.com/@mysystemcenter818">YouTube channel</a> and  <a href="https://raphaelejike.blogspot.com">old Blogspot</a>. Gradually, I will transfer most of this relevant knowledge to my GitHub. In my opinion, GitHub is an excellent platform for sharing knowledge with colleagues, friends, and family.
+Over the years, I have documented my journey in client services and cybersecurity through my old <a href="https://www.youtube.com/@mysystemcenter818">YouTube channel</a> and  <a href="https://raphaelejike.blogspot.com">Blogspot</a>. Gradually, I will transfer most of this relevant knowledge to my GitHub. In my opinion, GitHub is an excellent platform for sharing knowledge with colleagues, friends, and family.
 
 
 
@@ -15,19 +15,22 @@ Over the years, I have documented my journey in client services and cybersecurit
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Phishing and social engineering awareness     | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| DLP implementation and monitoring              | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div> 
      <a href="https://www.wireshark.org/download.html"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </a>
      <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+
+ <a href="https://www.netacad.com/courses/packet-tracer"> <![Static Badge](https://img.shields.io/badge/!CISCO%20Networking-black)
+/> </a>
+
 </div>
 
 ### Endpoint
