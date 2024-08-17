@@ -22,6 +22,14 @@ Over the years, I have documented my journey in client services and cybersecurit
 
 ## Tools
 
+### Endpoint
+<div>
+<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint">    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://www.crowdstrike.com/"><img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white"/>
+</a>
+</div>
+
+
 ### Network
 <div> 
      <a href="https://www.wireshark.org/download.html"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </a>
@@ -30,12 +38,6 @@ Over the years, I have documented my journey in client services and cybersecurit
   <img src="https://img.shields.io/badge/CISCO%20Networking-black?&style=for-the-badge" /></a>
 </div>
 
-### Endpoint
-<div>
-<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint">    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<a href="https://www.crowdstrike.com/"><img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white"/>
-</a>
-</div>
 
 ### SIEM
 <div>
