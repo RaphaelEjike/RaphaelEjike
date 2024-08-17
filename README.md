@@ -5,7 +5,9 @@ This GitHub project is dedicated to promoting cybersecurity awareness among frie
 
 ## Objective
 
-Over the years, I have documented my journey in client services and cybersecurity through my YouTube channel and Blogspot. Gradually, I will transfer most of this relevant knowledge to my GitHub. In my opinion, GitHub is an excellent platform for sharing knowledge with colleagues, friends, and family.
+Over the years, I have documented my journey in client services and cybersecurity through my  <a href="https://www.youtube.com/@mysystemcenter818">YouTube channel</a> and  <a href="https://www.raphaelejike.blogspot.com">old Blogspot</a>. Gradually, I will transfer most of this relevant knowledge to my GitHub. In my opinion, GitHub is an excellent platform for sharing knowledge with colleagues, friends, and family.
+
+
 
 ## Skills
 
