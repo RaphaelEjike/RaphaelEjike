@@ -59,5 +59,5 @@ Over the years, I have documented my journey in client services and cybersecurit
 </div>
 
 ## Projects
-- SIEM Detection Lab
+- <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>
 
