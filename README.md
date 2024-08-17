@@ -13,12 +13,12 @@ Over the years, I have documented my journey in client services and cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Phishing and social engineering awareness     | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| DLP implementation and monitoring              | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">SIEM Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | Network monitoring Lab|
+| Phishing and social engineering awareness     | Phishing Lab|
+| Incident Response Planning and Execution      | IR Lab|
+| DLP implementation and monitoring              | DLP Lab|
+| Scripting and Automation for Threat Mitigation | Scripting and KQL Lab|
 
 ## Tools
 
@@ -59,5 +59,5 @@ Over the years, I have documented my journey in client services and cybersecurit
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Detection Lab
+
