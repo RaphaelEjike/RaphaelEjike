@@ -60,4 +60,4 @@ Over the years, I have documented my journey in client services and cybersecurit
 
 ## Projects
 - <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>
-
+- <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>
