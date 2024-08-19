@@ -14,7 +14,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | Network monitoring Lab|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>|
 | Phishing and social engineering awareness     | Phishing Lab|
 | Incident Response Planning and Execution      | IR Lab|
 | DLP implementation and monitoring              | DLP Lab|
