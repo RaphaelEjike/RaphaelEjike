@@ -19,6 +19,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Incident Response Planning and Execution      | IR Lab|
 | DLP implementation and monitoring              | DLP Lab|
 | Scripting and Automation for Threat Mitigation | Scripting and KQL Lab|
+| Standard Operating Procedures          | SOPs |
 
 ## Tools
 
@@ -61,3 +62,4 @@ Over the years, I have documented my journey in client services and cybersecurit
 ## Projects
 - <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>
 - <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>
+- SOP
