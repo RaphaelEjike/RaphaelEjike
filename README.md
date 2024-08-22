@@ -18,7 +18,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Phishing and social engineering awareness     | Phishing Lab|
 | Incident Response Planning and Execution      | IR Execution|
 | DLP implementation and monitoring              | DLP Lab|
-| Scripting and Automation for Threat Mitigation | Scripting and KQL|
+| Scripting and Threat Hunting          | Scripting and KQL|
 | Standard Operating Procedures          | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 
 ## Tools
