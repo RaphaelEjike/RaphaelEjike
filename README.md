@@ -18,7 +18,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Phishing and social engineering awareness     | Phishing Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>|
 | DLP implementation and monitoring              | DLP Lab|
-| Scripting and Threat Hunting          | Scripting and KQL|
+| Scripting and Threat Hunting          | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
 | Standard Operating Procedures          | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 
 ## Tools
@@ -63,5 +63,6 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>
 - <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>
 - <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a>
-- <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>                                                                 
+- <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>
+- <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>                                                                
   
