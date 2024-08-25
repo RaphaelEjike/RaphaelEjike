@@ -21,6 +21,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Scripting and Threat Hunting                    | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 | Malware Analysis and reverse engineering        | Malware Lab|
+| Ethical hacking                                 | Pentest Lab|
 
 
 
