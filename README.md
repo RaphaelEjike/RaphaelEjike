@@ -20,7 +20,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | DLP implementation and monitoring               | DLP Lab|
 | Scripting and Threat Hunting                    | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
-| Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a>             |
+| Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a> |
 | Ethical hacking                                 | Pentest kasm web Lab|
 
 
@@ -69,5 +69,6 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>
 - <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a>
 - <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>
-- <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>                                                                
+- <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>
+- <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a>                                                                
   
