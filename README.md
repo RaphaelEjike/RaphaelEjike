@@ -22,7 +22,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 | Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a> |
 | Ethical hacking                                 | Pentest kasm web Lab|
-| Enhancing Security Posture in a Hybrid Environment | Enhance Security Posture |
+| Enhancing Security Posture in a Hybrid Environment | <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a> |
 
 
 
@@ -72,5 +72,5 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>
 - <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>
 - <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a>
--  Enhance Security Posture                                                               
+- <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a>                                                               
   
