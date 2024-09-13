@@ -15,9 +15,8 @@ Over the years, I have documented my journey in client services and cybersecurit
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>|
-| Identifying and Mapping Threat Actors Using MITRE ATT&CK | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>|                |
+| Identifying and Mapping Threat Actors Using MITRE ATT&CK | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>|         
 | Incident Response Planning and Execution        | <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>|
-| DLP implementation and monitoring               | DLP Lab|
 | Scripting and Threat Hunting                    | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 | Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a> |
@@ -72,5 +71,6 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>
 - <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>
 - <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a>
-- <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a>                                                               
+- <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a>
+- <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>                                                              
   
