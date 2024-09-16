@@ -20,8 +20,11 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Scripting and Threat Hunting                    | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 | Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a> |
-| Ethical hacking                                 | Pentest kasm web Lab|
 | Enhancing Security Posture in a Hybrid Environment | <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a> |
+| Mitigating CVEs                              |    <a href="https://github.com/RaphaelEjike/Mitigating_CVEs">  Mitigating CVEs </a>|
+| Ethical hacking                                 | Pentest kasm web Lab|
+
+
 
 
 
