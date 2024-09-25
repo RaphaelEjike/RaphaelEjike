@@ -21,8 +21,9 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 | Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a> |
 | Enhancing Security Posture in a Hybrid Environment | <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a> |
-| Mitigating CVEs                              |    <a href="https://github.com/RaphaelEjike/Mitigating_CVEs">  Mitigating CVEs </a>|
-| Ethical hacking                                 | Pentest kasm web Lab|
+| Mitigating CVEs                                 |    <a href="https://github.com/RaphaelEjike/Mitigating_CVEs">  Mitigating CVEs </a>|
+| Defending Against Lateral Movement in a SOC Environment | Lateral Movement|
+| Reconnecting with a long-lost friend            | Finding someone|
 
 
 
