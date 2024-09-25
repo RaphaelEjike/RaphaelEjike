@@ -76,5 +76,6 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>
 - <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a>
 - <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a>
-- <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>                                                              
+- <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>
+-  <a href="https://github.com/RaphaelEjike/-Lateral_Movement">Lateral Movement</a>                                                          
   
