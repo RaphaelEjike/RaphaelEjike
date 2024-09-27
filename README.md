@@ -22,9 +22,9 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a> |
 | Enhancing Security Posture in a Hybrid Environment | <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a> |
 | Mitigating CVEs                                 |    <a href="https://github.com/RaphaelEjike/Mitigating_CVEs">  Mitigating CVEs </a>|
-| Defending Against Lateral Movement in a SOC Environment | <a href="https://github.com/RaphaelEjike/-Lateral_Movement">  Lateral Movement </a> |
-| OSINT investigating an entity          | <a href="https://github.com/RaphaelEjike/ToFindSomeone ">OSINT investigation (private) </a>|            
-| Tackling Phishing Threats | In progress (due date 1st Nov 24) |
+| Defending Against Lateral Movement in a SOC Environment | <a href="https://github.com/RaphaelEjike/-Lateral_Movement">  Lateral Movement </a> |          
+| Tackling Phishing Threats               |  <a href="https://github.com/RaphaelEjike/Tackling_Phishing_Threats"> Tackling Phishing </a> |     
+| OSINT investigating an entity          | <a href="https://github.com/RaphaelEjike/ToFindSomeone"> OSINT investigating</a>|
 
 
 
