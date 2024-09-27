@@ -1,7 +1,7 @@
 # Hello, I'm Raph
 <a href="https://www.linkedin.com/in/raphael-ejike-6841464"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-This GitHub project is dedicated to promoting cybersecurity awareness among friends and family. Additionally, it serves as a platform to mentor my son and guide him towards a career in cybersecurity, fostering the next generation of security professionals through guidance and knowledge sharing.
+This GitHub project is dedicated to promoting cybersecurity awareness among Work colleagues, friends and family. Additionally, it serves as a platform to mentor my son and guide him towards a career in cybersecurity, fostering the next generation of security professionals through guidance and knowledge sharing.
 
 ## Objective
 
