@@ -24,7 +24,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Mitigating CVEs                                 |    <a href="https://github.com/RaphaelEjike/Mitigating_CVEs">  Mitigating CVEs </a>|
 | Defending Against Lateral Movement in a SOC Environment | <a href="https://github.com/RaphaelEjike/-Lateral_Movement">  Lateral Movement </a> |
 | OSINT investigating an entity          | <a href="https://github.com/RaphaelEjike/ToFindSomeone ">OSINT investigation (private) </a>|            
-| Tackling Phishing Threats | In progress (this might take a while ;-) |
+| Tackling Phishing Threats | In progress (due date 1st Nov 24) |
 
 
 
