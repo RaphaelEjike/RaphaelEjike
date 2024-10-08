@@ -24,7 +24,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Mitigating CVEs                                 |    <a href="https://github.com/RaphaelEjike/Mitigating_CVEs">  Mitigating CVEs </a>|
 | Defending Against Lateral Movement in a SOC Environment | <a href="https://github.com/RaphaelEjike/-Lateral_Movement">  Lateral Movement </a> |          
 | Tackling Phishing Threats               |  <a href="https://github.com/RaphaelEjike/Tackling_Phishing_Threats"> Tackling Phishing </a> |     
-| Evolving Threat Landscapes (Insights from Cybersecurity Forums) | Evolving Threat Landscapes | 
+| Evolving Threat Landscapes (Insights from Cybersecurity Forums) | <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>| 
 | OSINT investigating an entity          | <a href="https://github.com/RaphaelEjike/ToFindSomeone"> OSINT investigating (Private) </a>|
 
 
@@ -79,5 +79,6 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a>
 - <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a>
 - <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>
--  <a href="https://github.com/RaphaelEjike/-Lateral_Movement">Lateral Movement</a>                                                          
+-  <a href="https://github.com/RaphaelEjike/-Lateral_Movement">Lateral Movement</a>
+-  <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>                                                         
   
