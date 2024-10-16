@@ -15,7 +15,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 |-----------------------------------------------|----------------------------|
 | Evolving Threat Landscapes (Insights from Cybersecurity Forums) | <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>| 
 | Identifying Defence Gaps and Mapping Threat Actors Using MITRE ATT&CK | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>|  
-| Using GreyNoise to monitor real-time intelligence for modern threats  | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">Real-time intelligence monitoring</a>|         
+| Using GreyNoise to monitor real-time intelligence for modern threats  | <a href="https://github.com/RaphaelEjike/Real-time_intelligence_monitoring">Real-time intelligence monitoring</a>|         
 | Incident Response Planning and Execution        | <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>|
 | Scripting and Threat Hunting                    | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
