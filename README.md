@@ -14,9 +14,8 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Evolving Threat Landscapes (Insights from Cybersecurity Forums) | <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>| 
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>|
-| Identifying Defence Gaps and Mapping Threat Actors Using MITRE ATT&CK | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>|         
+| Identifying Defence Gaps and Mapping Threat Actors Using MITRE ATT&CK | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>|  
+| Using GreyNoise to monitor real-time intelligence for modern threats  | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">Real-time intelligence monitoring</a>|         
 | Incident Response Planning and Execution        | <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>|
 | Scripting and Threat Hunting                    | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
@@ -24,7 +23,9 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Enhancing Security Posture in a Hybrid Environment | <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a> |
 | Mitigating CVEs                                 |    <a href="https://github.com/RaphaelEjike/Mitigating_CVEs">  Mitigating CVEs </a>|
 | Defending Against Lateral Movement in a SOC Environment | <a href="https://github.com/RaphaelEjike/-Lateral_Movement">  Lateral Movement </a> |          
-| Tackling Phishing Threats               |  <a href="https://github.com/RaphaelEjike/Tackling_Phishing_Threats"> Tackling Phishing </a> |     
+| Tackling Phishing Threats               |  <a href="https://github.com/RaphaelEjike/Tackling_Phishing_Threats"> Tackling Phishing </a> | 
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>|
 | OSINT investigating an entity          | <a href="https://github.com/RaphaelEjike/ToFindSomeone"> OSINT investigating (Private) </a>|
 
 
@@ -75,9 +76,8 @@ Over the years, I have documented my journey in client services and cybersecurit
 </div>
 
 ## Projects
--  <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>   
-- <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>
-- <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>
+-  <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>
+-  Real-time intelligence monitoring
 - <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a>
 - <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>
 - <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>
@@ -85,5 +85,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a>
 - <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>
 -  <a href="https://github.com/RaphaelEjike/-Lateral_Movement">Lateral Movement</a>
-- <a href="https://github.com/RaphaelEjike/Tackling_Phishing_Threats"> Tackling Phishing </a>                                                       
+- <a href="https://github.com/RaphaelEjike/Tackling_Phishing_Threats"> Tackling Phishing </a>
+- <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>
+- <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>                                                  
   
