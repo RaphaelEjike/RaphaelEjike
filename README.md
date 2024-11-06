@@ -14,6 +14,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Evolving Threat Landscapes (Insights from Cybersecurity websites & Forums) | <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>| 
+| Latest Disclosed Cybersecurity Incidents | <a href="https://github.com/RaphaelEjike/Latest_disclosed_cybersecurity_incidents">Latest Disclosed Cybersecurity Incidents</a>|  
 | Identifying Defence Gaps and Mapping Threat Actors Using MITRE ATT&CK | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>|  
 | Using GreyNoise to monitor real-time intelligence for modern threats  | <a href="https://github.com/RaphaelEjike/Real-time_intelligence_monitoring">Real-time intelligence monitoring</a>|         
 | Incident Response Planning and Execution        | <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>|
