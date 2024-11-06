@@ -78,6 +78,7 @@ Over the years, I have documented my journey in client services and cybersecurit
 
 ## Projects
 -  <a href="https://github.com/RaphaelEjike/Evolving_Threat_Landscapes"> Evolving Threat Landscapes </a>
+- <a href="https://github.com/RaphaelEjike/Latest_disclosed_cybersecurity_incidents">Latest Disclosed Cybersecurity Incidents</a>
 -  <a href="https://github.com/RaphaelEjike/Real-time_intelligence_monitoring">Real-time intelligence monitoring</a>
 - <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a>
 - <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>
