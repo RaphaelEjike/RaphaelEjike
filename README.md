@@ -18,8 +18,8 @@ Over the years, I have documented my journey in client services and cybersecurit
 | Identifying Defence Gaps and Mapping Threat Actors Using MITRE ATT&CK | <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>|  
 | Using GreyNoise to monitor real-time intelligence for modern threats  | <a href="https://github.com/RaphaelEjike/Real-time_intelligence_monitoring">Real-time intelligence monitoring</a>|         
 | Incident Response Planning and Execution        | <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>|
-| Scripting and Threat Hunting                    | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>|
-| Correlated log events                            | <a href="https://github.com/RaphaelEjike/Correlated_log_events">Correlated log events</a>|
+| Scripting and KQL Threat Hunting queries          | <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting ">KQL threat hunting queries</a>|
+| Correlated log events with KQL analytics rules             | <a href="https://github.com/RaphaelEjike/Correlated_log_events">KQL analytics rules  </a>|
 | Standard Operating Procedures                   | <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a> |
 | Malware Analysis and reverse engineering        | <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a> |
 | Enhancing Security Posture in a Hybrid Environment | <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a> |
@@ -83,7 +83,8 @@ Over the years, I have documented my journey in client services and cybersecurit
 -  <a href="https://github.com/RaphaelEjike/Real-time_intelligence_monitoring">Real-time intelligence monitoring</a>
 - <a href="https://github.com/RaphaelEjike/SOPs">SOPs</a>
 - <a href="https://github.com/RaphaelEjike/IR-Execution">IR Execution</a>
-- <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> Scripting and KQL</a>
+- <a href="https://github.com/RaphaelEjike/Scripting-and-Threat-Hunting "> KQL threat hunting queries</a>
+- <a href="https://github.com/RaphaelEjike/Correlated_log_events">KQL analytics rules  </a>
 - <a href="https://github.com/RaphaelEjike/Malware_Analysis_Project ">Malware kasm web Lab</a>
 - <a href="https://github.com/RaphaelEjike/Enhance_Security_Posture">Enhance Security Posture</a>
 - <a href="https://github.com/RaphaelEjike/MITRE_ATT-CK">MITRE ATT&CK</a>
