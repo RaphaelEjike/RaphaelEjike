@@ -91,5 +91,8 @@ Over the years, I have documented my journey in client services and cybersecurit
 -  <a href="https://github.com/RaphaelEjike/-Lateral_Movement">Lateral Movement</a>
 - <a href="https://github.com/RaphaelEjike/Tackling_Phishing_Threats"> Tackling Phishing </a>
 - <a href="https://github.com/RaphaelEjike/SIEM-Detection-Lab">SIEM Detection Lab</a>
-- <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>                                                  
+- <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>
+
+  ## Resources
+  -    <a href="https://github.com/RaphaelEjike/Recorded_IT_and_Cybersecurity_Webinars"> Useful recorded IT and Cybersecurity Webinars</a> 
   
