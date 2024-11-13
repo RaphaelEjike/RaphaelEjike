@@ -94,5 +94,6 @@ Over the years, I have documented my journey in client services and cybersecurit
 - <a href="https://github.com/RaphaelEjike/Network-monitoring-Lab">Network monitoring Lab</a>
 
   ## Resources
-  -    <a href="https://github.com/RaphaelEjike/Recorded_IT_and_Cybersecurity_Webinars"> Useful recorded IT and Cybersecurity Webinars</a> 
+  -    <a href="https://github.com/RaphaelEjike/Recorded_IT_and_Cybersecurity_Webinars"> Useful recorded IT and Cybersecurity Webinars</a>
+  -    <a href="https://www.youtube.com/@mysystemcenter818"> (Self Promote ;-) My YouTube Channel</a>
   
